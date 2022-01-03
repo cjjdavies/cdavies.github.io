@@ -1,3 +1,10 @@
+Chantel Davies
+--------------------------------------------------------------------------------
+
+### About me
+
+I am seeking a data science role that will further develop my existing skills in statistics, data analysis and programming with R, whilst providing opportunities for problem-solving, and scope to continue developing proficiency in Python, SQL and Shiny; I am also deeply committed to the principles of accessibility. Currently I am studying part-time for an MSc in Health Data Science with the University of Aberdeen.
+
 Contact Info
 --------------------------------------------------------------------------------
 
@@ -15,26 +22,10 @@ Key Skills
 
 - Project management (APM)
 
-
 Disclaimer
 --------------------------------------------------------------------------------
 
 This CV was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
-
-Last updated on `r Sys.Date()`.
-
-
-
-Main
-================================================================================
-
-Chantel Davies
---------------------------------------------------------------------------------
-
-### About me
-
-I am seeking a data science role that will further develop my existing skills in statistics, data analysis and programming with R, whilst providing opportunities for problem-solving, and scope to continue developing proficiency in Python, SQL and Shiny; I am also deeply committed to the principles of accessibility. Currently I am studying part-time for an MSc in Health Data Science with the University of Aberdeen.
-
 
 Education
 --------------------------------------------------------------------------------
@@ -48,7 +39,6 @@ Hybrid delivery
 
 - Introduction to Data Science: Data cleaning and analysis in RStudio, and data visualisation
 - Applied Statistics in SPSS: descriptive statistics, parametric and non-parametric tests, interpretation of co-efficients
-
 
 2021 - 2023
 

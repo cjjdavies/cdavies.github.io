@@ -1,4 +1,4 @@
-Contact Info {#contact}
+Contact Info
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> c.davies@growing-research.com
@@ -6,7 +6,7 @@ Contact Info {#contact}
 - <i class="fa fa-phone"></i> xxxxx xxxxxx
 - For more information, please contact me via email.
 
-Key Skills {#skills}
+Key Skills
 --------------------------------------------------------------------------------
 
 - Experimental design and data analysis
@@ -16,7 +16,7 @@ Key Skills {#skills}
 - Project management (APM)
 
 
-Disclaimer {#disclaimer}
+Disclaimer
 --------------------------------------------------------------------------------
 
 This CV was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
@@ -28,7 +28,7 @@ Last updated on `r Sys.Date()`.
 Main
 ================================================================================
 
-Chantel Davies {#title}
+Chantel Davies
 --------------------------------------------------------------------------------
 
 ### About me
@@ -36,7 +36,7 @@ Chantel Davies {#title}
 I am seeking a data science role that will further develop my existing skills in statistics, data analysis and programming with R, whilst providing opportunities for problem-solving, and scope to continue developing proficiency in Python, SQL and Shiny; I am also deeply committed to the principles of accessibility. Currently I am studying part-time for an MSc in Health Data Science with the University of Aberdeen.
 
 
-Education {data-icon=graduation-cap data-concise=true}
+Education
 --------------------------------------------------------------------------------
 
 ### University of Aberdeen
@@ -66,7 +66,7 @@ Online
 
 2021
 
-Professional Experience {data-icon=suitcase}
+Professional Experience
 --------------------------------------------------------------------------------
 
 ### Statistical Support Analyst

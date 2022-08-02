@@ -30,25 +30,19 @@ Education
 MSc Health Data Science (part-time)  
 Tuition scholarship from The DataLab
 
-Hybrid delivery
-
 - Introduction to Data Science: Data cleaning and analysis in RStudio, and data visualisation
 - Applied Statistics in SPSS: descriptive statistics, parametric and non-parametric tests, interpretation of co-efficients
+- Machine Learning for Healthcare
+- Health Informatics
+- Evaluating Policy Effects in Practice: Ethical frameworks and the use of AI in mental health care and research
 
 
 2021 - 2023
 
 ### Open University
 
-Introduction to Computing and IT  
-BSc Data Science Course
-
-Online
-
-- Data use and management
-- Programming and algorithm development
-- Networking technologies and infrastructure
-- Final grade: 97%
+Introduction to Computing and IT (Distinction - 97%)
+Applied Statistics (83%)
 
 2021
 
@@ -61,7 +55,7 @@ Scottish Courts and Tribunals Service
 
 Edinburgh, UK
 
-2021 - Present
+2021 - 2022
 
 - Time series analysis of court data
 - Produce dynamic data visualisations (Excel)
@@ -75,7 +69,7 @@ EqualiTree CIC
 
 Fife, UK
 
-2019 - 2021
+2019 - 2022
 
 - Created a business plan and sourced start-up funds
 - Managed health and safety and risk assessments

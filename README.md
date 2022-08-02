@@ -8,7 +8,7 @@ I am seeking a data science role that will further develop my existing skills in
 Contact Info
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> c.davies@growing-research.com
+- <i class="fa fa-envelope"></i> c.davies at growing-research.com
 - <i class="fa fa-gitlab"></i> [gitlab.com/cjjdavies](https://gitlab.com/cjjdavies)
 - <i class="fa fa-phone"></i> xxxxx xxxxxx
 - For more information, please contact me via email.
